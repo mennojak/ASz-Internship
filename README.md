@@ -14,3 +14,7 @@ To start this application run the following line:
 ```
 streamlit run streamlit.py
 ```
+
+Found below is a screenshot of the application in action:
+![image](https://github.com/mennojak/ASz-Internship/assets/84782061/8735d3a9-16bd-4739-a402-244c6ab23a33)
+
