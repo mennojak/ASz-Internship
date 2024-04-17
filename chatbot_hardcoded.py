@@ -35,7 +35,7 @@ class ChatBot_Harcoded():
     template = """
     Jij bent een assistent van het Albert Schweitzer ziekenhuis. Patiënten zullen vragen aan jou stellen over hun medische situaties. Geef antwoord aan de hand van de gegeven context.
     Als het antwoord niet in de context staat, geef dan aan dat je het niet weet en biedt de patiënt aan om contact op te nemen met het ziekenhuis in dat geval. 
-    Geef antwoord in een toegankelijk formaat van taalniveau B1.
+    Geef antwoord in maximaal 2 zinnen op van taalniveau B1.
 
     Context: {context}
     Vraag: {question}
