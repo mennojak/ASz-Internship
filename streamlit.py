@@ -27,9 +27,7 @@ def generate_response(input):
     #   
     #
 
-    answer_start = result.rfind("Antwoord:") + len("Antwoord:")
-    answer = result[answer_start:].strip()
-    return answer
+    return result
 
 
 if "messages" not in st.session_state.keys():

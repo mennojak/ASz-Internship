@@ -46,14 +46,11 @@ class ChatBot_Harcoded():
     prompt = PromptTemplate(template=template, input_variables=["context", "question"])
 
     def ask_question(self, question):
-        # Gebruik de Mistral LLM om een antwoord te genereren op basis van de tekst van de documenten
-        # als context.
+        # Gebruik de Mistral LLM om een antwoord te genereren op basis van de tekst van de documenten als context.
         context = self.text # Gebruik de volledige tekst van het document als context
         prompt_input = self.prompt.format(context=context, question=question)
         result = self.llm.invoke(prompt_input)
-        answer_start = result.rfind("Antwoord:") + len("Antwoord:")
-        answer = result[answer_start:].strip()
-        return answer
+        return result
 
 # Code below is to test the chatbot without streamlit
 # bot = ChatBot_Harcoded()

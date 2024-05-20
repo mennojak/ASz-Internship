@@ -1,3 +1,7 @@
-Zou je met iets kunnen vertellen over mogeljke complicaties na een laserbehandeling voor nastaar?
+Questions to test the LLM on knowledge but also usability:
 
-Welk telefoonnummer moet ik bellen als ik problemen ervaar na mijn laserbehandeling bij nastaar?
+Kun je me uitleggen wat een nastaar behandeling is?
+Hoe snel ontstaat nastaar?
+Zou je met iets kunnen vertellen over mogeljke complicaties na een laserbehandeling voor nastaar?
+Welk telefoonnummer moet ik bellen als ik problemen ervaar na mijn laserbehandeling?
+Ik voel me nerveus over deze behandeling
