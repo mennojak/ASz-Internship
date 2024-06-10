@@ -17,6 +17,7 @@ streamlit run streamlit.py
 
 Found below is a screenshot of the application in action:
 
-![image](https://github.com/mennojak/ASz-Internship/assets/84782061/07100a04-f92c-4044-aeff-a83cceebb9ff)
+![image](https://github.com/mennojak/ASz-Internship/assets/84782061/2e2c44c1-f23d-47b5-8b23-b7d958f5ce62)
+
 
 
