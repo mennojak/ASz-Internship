@@ -8,7 +8,7 @@ This application is purely made for testing things out, and since I ran into iss
 
 Before the application can be run locally the following needs to be configured or available:
 - A python environment with the necessary libraries installed (can be found in requirements.txt).
-- An .env file needs to be created with the API keys from your personal Hugging Face account (you need to create an accounts if you don't already have one)
+- An .env file needs to be created with the API key from your personal Hugging Face account (you need to create an accounts if you don't already have one)
 
 To start this application run the following line:
 ```
@@ -16,5 +16,7 @@ streamlit run streamlit.py
 ```
 
 Found below is a screenshot of the application in action:
-![image](https://github.com/mennojak/ASz-Internship/assets/84782061/8735d3a9-16bd-4739-a402-244c6ab23a33)
+
+![image](https://github.com/mennojak/ASz-Internship/assets/84782061/07100a04-f92c-4044-aeff-a83cceebb9ff)
+
 
